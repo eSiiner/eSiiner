@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eSiiner
-- 👀 I’m interested in Javascript, Web3, Website design, indie games.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m interested in Generative AI, Web3
+- 🌱 I’m currently Generative AI
 - 💞️ I’m looking to collaborate on Web3 project startup.
 - 📫 How to reach me: 
       * Telegram: https://t.me/vinkux
